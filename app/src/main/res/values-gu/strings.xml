@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">સિવસેતુ (CivSetu)</string>
+    <string name="login">લોગિન</string>
+    <string name="register">રજીસ્ટર</string>
+    <string name="email">ઈમેલ</string>
+    <string name="password">પાસવર્ડ</string>
+    <string name="full_name">પૂરું નામ</string>
+    <string name="phone">ફોન નંબર</string>
+    <string name="submit">સબમિટ</string>
+    <string name="report_issue">ફરિયાદ નોંધાવો</string>
+    <string name="issue_title">ફરિયાદનું શીર્ષક</string>
+    <string name="issue_description">વર્ણન</string>
+    <string name="category">શ્રેણી</string>
+    <string name="address">સરનામું</string>
+    <string name="dashboard">ડેશબોર્ડ</string>
+    <string name="official_dashboard">સત્તાવાર ડેશબોર્ડ</string>
+    <string name="resolved">નિરાકરણ આવ્યું</string>
+    <string name="pending">બાકી છે</string>
+    <string name="in_progress">ચાલુ છે</string>
+    <string name="rejected">નકારવામાં આવ્યું</string>
+    <string name="escalated">વધારવામાં આવ્યું (Escalated)</string>
+    <string name="critical">ખૂબ જ ગંભીર</string>
+    <string name="high">ઉચ્ચ</string>
+    <string name="medium">મધ્યમ</string>
+    <string name="low">ઓછું</string>
+    <string name="search_hint">ફરિયાદો શોધો...</string>
+    <string name="explore_live_issues">લાઇવ ફરિયાદો તપાસો</string>
+    <string name="issue_statistics">ફરિયાદના આંકડા</string>
+    <string name="reported">રિપોર્ટ કરવામાં આવ્યું</string>
+    <string name="my_submissions">મારી ફરિયાદો</string>
+    <string name="take_surveys">સર્વેમાં ભાગ લો</string>
+    <string name="total_pending">કુલ બાકી</string>
+    <string name="avg_resolution">સરેરાશ નિરાકરણ સમય</string>
+    <string name="category_insights">શ્રેણી મુજબની સમજ</string>
+    <string name="logout">લોગઆઉટ</string>
+    <string name="upvotes">સમર્થન મતો</string>
+    <string name="listen_voice">વોઈસ વિગત સાંભળો</string>
+    <string name="ai_insight">AI સમજ</string>
+    <string name="sla_status">SLA સ્થિતિ</string>
+    <string name="switch_language">ભાષા બદલો</string>
+    <string name="map_view">નકશા દૃશ્ય</string>
+    <string name="list_view">યાદી દૃશ્ય</string>
+    <string name="navigate_to_spot">સ્થળ પર જાવ</string>
+    <string name="official_remarks">સત્તાવાર નોંધ</string>
+    <string name="resolution_progress">નિરાકરણની પ્રગતિ</string>
+    <string name="admin_command_center">એડમિન કમાન્ડ સેન્ટર</string>
+    <string name="issue_map">ફરિયાદ નકશો</string>
+    <string name="admin_subtitle">તમારા શહેરની નાગરિક સમસ્યાઓ ટ્રેક કરો</string>
+    <string name="all_issues">તમામ ફરિયાદો</string>
+    <string name="status">સ્થિતિ</string>
+    <string name="all">બધા</string>
+    <string name="sla_breached">SLA ઉલ્લંઘન</string>
+    <string name="map">નકશો</string>
+    <string name="satellite">સેટેલાઇટ</string>
+    <string name="view_list">યાદી જુઓ</string>
+    <string name="roads">રસ્તાઓ</string>
+    <string name="water">પાણી</string>
+    <string name="waste">કચરા વ્યવસ્થાપન</string>
+    <string name="electricity">વીજળી</string>
+    <string name="city_health_overview">શહેર-વ્યાપી આરોગ્ય વિગત</string>
+    <string name="dept_distribution">વિવિધ વિભાગોમાં ફરિયાદોનું વિતરણ.</string>
+    <string name="citizen_dashboard">સિટિઝન કનેક્ટ</string>
+    <string name="explore_live">લાઇવ ફરિયાદો જુઓ</string>
+    <string name="issue_stats">ફરિયાદના આંકડા</string>
+    <string name="report_issue_btn">ફરિયાદ કરો</string>
+    <string name="show_clusters">ક્લસ્ટર્સ બતાવો</string>
+    <string name="show_heatmap">હીટમેપ બતાવો</string>
+    <string name="report_civic_issue">નાગરિક સમસ્યા રિપોર્ટ કરો</string>
+    <string name="issue_title_hint">ફરિયાદનું શીર્ષક</string>
+    <string name="category_hint">શ્રેણી</string>
+    <string name="description_hint">વર્ણન</string>
+    <string name="visual_context">દ્રશ્ય વિગત (CameraX)</string>
+    <string name="capture">કેપ્ચર કરો</string>
+    <string name="images_captured">%d ફોટા લેવામાં આવ્યા</string>
+    <string name="record_voice">વોઈસ રેકોર્ડ કરો</string>
+    <string name="stop_recording">રેકોર્ડિંગ બંધ કરો</string>
+    <string name="detected_address_hint">ઓળખાયેલ સરનામું</string>
+    <string name="submit_report">રિપોર્ટ સબમિટ કરો</string>
+    <string name="ai_suggested_category">AI સૂચવેલી શ્રેણી: %s</string>
+    <string name="actionable_location">કાર્યવાહી લાયક સ્થળ</string>
+
+    <string-array name="categories_array">
+        <item>ખાડાઓ (Potholes)</item>
+        <item>પાણી પુરવઠો</item>
+        <item>કચરો (Garbage)</item>
+        <item>રોડની લાઈટો</item>
+        <item>ગટર વ્યવસ્થા (Drainage)</item>
+        <item>રસ્તાઓ</item>
+        <item>વીજળી</item>
+        <item>કચરા વ્યવસ્થાપન</item>
+        <item>જાહેર આરોગ્ય</item>
+        <item>અન્ય</item>
+    </string-array>
+</resources>

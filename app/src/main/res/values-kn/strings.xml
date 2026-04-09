@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">ಸಿವಸೇತು (CivSetu)</string>
+    <string name="login">ಲಾಗಿನ್</string>
+    <string name="register">ನೋಂದಣಿ</string>
+    <string name="email">ಇಮೇಲ್</string>
+    <string name="password">ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="full_name">ಪೂರ್ಣ ಹೆಸರು</string>
+    <string name="phone">ಫೋನ್ ಸಂಖ್ಯೆ</string>
+    <string name="submit">ಸಲ್ಲಿಸು</string>
+    <string name="report_issue">ದೂರು ನೀಡಿ</string>
+    <string name="issue_title">ಸಮಸ್ಯೆಯ ಶೀರ್ಷಿಕೆ</string>
+    <string name="issue_description">ವಿವರಣೆ</string>
+    <string name="category">ವರ್ಗ</string>
+    <string name="address">ವಿಳಾಸ</string>
+    <string name="dashboard">ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="official_dashboard">ಅಧಿಕೃತ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="resolved">ಪರಿಹರಿಸಲಾಗಿದೆ</string>
+    <string name="pending">ಬಾಕಿ ಇದೆ</string>
+    <string name="in_progress">ಪ್ರಗತಿಯಲ್ಲಿದೆ</string>
+    <string name="rejected">ತಿರಸ್ಕರಿಸಲಾಗಿದೆ</string>
+    <string name="escalated">ಹೆಚ್ಚಿಸಲಾಗಿದೆ (Escalated)</string>
+    <string name="critical">ಅತ್ಯಂತ ತುರ್ತು</string>
+    <string name="high">ಹೆಚ್ಚು</string>
+    <string name="medium">ಮಧ್ಯಮ</string>
+    <string name="low">ಕಡಿಮೆ</string>
+    <string name="search_hint">ದೂರುಗಳನ್ನು ಹುಡುಕಿ...</string>
+    <string name="explore_live_issues">ಲೈವ್ ಸಮಸ್ಯೆಗಳನ್ನು ನೋಡಿ</string>
+    <string name="issue_statistics">ದೂರಿನ ಅಂಕಿಅಂಶಗಳು</string>
+    <string name="reported">ವರದಿ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="my_submissions">ನನ್ನ ಸಲ್ಲಿಕೆಗಳು</string>
+    <string name="take_surveys">ಸಮೀಕ್ಷೆಯಲ್ಲಿ ಭಾಗವಹಿಸಿ</string>
+    <string name="total_pending">ಒಟ್ಟು ಬಾಕಿ ಇರುವವು</string>
+    <string name="avg_resolution">ಸರಾಸರಿ ಪರಿಹಾರ ಸಮಯ</string>
+    <string name="category_insights">ವರ್ಗವಾರು ಒಳನೋಟಗಳು</string>
+    <string name="logout">ಲಾಗ್ ಔಟ್</string>
+    <string name="upvotes">ಅಪ್‌ವೋಟ್‌ಗಳು</string>
+    <string name="listen_voice">ಧ್ವನಿ ವಿವರಣೆ ಕೇಳಿ</string>
+    <string name="ai_insight">AI ಒಳನೋಟ</string>
+    <string name="sla_status">SLA ಸ್ಥಿತಿ</string>
+    <string name="switch_language">ಭಾಷೆ ಬದಲಿಸಿ</string>
+    <string name="map_view">ನಕ್ಷೆ ನೋಟ</string>
+    <string name="list_view">ಪಟ್ಟಿ ನೋಟ</string>
+    <string name="navigate_to_spot">ಸ್ಥಳಕ್ಕೆ ದಾರಿ ನೋಡಿ</string>
+    <string name="official_remarks">ಅಧಿಕೃತ ಅಭಿಪ್ರಾಯಗಳು</string>
+    <string name="resolution_progress">ಪರಿಹಾರದ ಪ್ರಗತಿ</string>
+    <string name="admin_command_center">ಅಡ್ಮಿನ್ ಕಮಾಂಡ್ ಸೆಂಟರ್</string>
+    <string name="issue_map">ಸಮಸ್ಯೆಗಳ ನಕ್ಷೆ</string>
+    <string name="admin_subtitle">ನಿಮ್ಮ ನಗರದ ಪೌರ ಸಮಸ್ಯೆಗಳನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡಿ</string>
+    <string name="all_issues">ಎಲ್ಲಾ ದೂರುಗಳು</string>
+    <string name="status">ಸ್ಥಿತಿ</string>
+    <string name="all">ಎಲ್ಲಾ</string>
+    <string name="sla_breached">SLA ಮೀರುವಿಕೆ</string>
+    <string name="map">ನಕ್ಷೆ</string>
+    <string name="satellite">ಉಪಗ್ರಹ</string>
+    <string name="view_list">ಪಟ್ಟಿ ನೋಡಿ</string>
+    <string name="roads">ರಸ್ತೆಗಳು</string>
+    <string name="water">ನೀರು</string>
+    <string name="waste">ತ್ಯಾಜ್ಯ ನಿರ್ವಹಣೆ</string>
+    <string name="electricity">ವಿದ್ಯುತ್</string>
+    <string name="city_health_overview">ನಗರದ ಒಟ್ಟಾರೆ ಆರೋಗ್ಯದ ಅವಲೋಕನ</string>
+    <string name="dept_distribution">ವಿವಿಧ ಇಲಾಖೆಗಳಲ್ಲಿ ಸಮಸ್ಯೆಗಳ ಹಂಚಿಕೆ.</string>
+    <string name="citizen_dashboard">ಸಿಟಿಜನ್ ಕನೆಕ್ಟ್</string>
+    <string name="explore_live">ಲೈವ್ ಸಮಸ್ಯೆಗಳನ್ನು ನೋಡಿ</string>
+    <string name="issue_stats">ದೂರಿನ ಅಂಕಿಅಂಶಗಳು</string>
+    <string name="report_issue_btn">ದೂರು ನೀಡಿ</string>
+    <string name="show_clusters">ಕ್ಲಸ್ಟರ್‌ಗಳನ್ನು ತೋರಿಸು</string>
+    <string name="show_heatmap">ಹೀಟ್ ಮ್ಯಾಪ್ ತೋರಿಸು</string>
+    <string name="report_civic_issue">ಪೌರ ಸಮಸ್ಯೆಯನ್ನು ವರದಿ ಮಾಡಿ</string>
+    <string name="issue_title_hint">ಸಮಸ್ಯೆಯ ಶೀರ್ಷಿಕೆ</string>
+    <string name="category_hint">ವರ್ಗ</string>
+    <string name="description_hint">ವಿವರಣೆ</string>
+    <string name="visual_context">ದೃಶ್ಯ ಮಾಹಿತಿ (CameraX)</string>
+    <string name="capture">ಫೋಟೋ ತೆಗೆಯಿರಿ</string>
+    <string name="images_captured">%d ಫೋಟೋಗಳನ್ನು ತೆಗೆಯಲಾಗಿದೆ</string>
+    <string name="record_voice">ಧ್ವನಿ ರೆಕಾರ್ಡ್ ಮಾಡಿ</string>
+    <string name="stop_recording">ರೆಕಾರ್ಡಿಂಗ್ ನಿಲ್ಲಿಸಿ</string>
+    <string name="detected_address_hint">ಗುರುತಿಸಲಾದ ವಿಳಾಸ</string>
+    <string name="submit_report">ವರದಿ ಸಲ್ಲಿಸಿ</string>
+    <string name="ai_suggested_category">AI ಸೂಚಿಸಿದ ವರ್ಗ: %s</string>
+    <string name="actionable_location">ಕ್ರಿಯಾತ್ಮಕ ಸ್ಥಳ</string>
+
+    <string-array name="categories_array">
+        <item>ಗುಂಡಿಗಳು (Potholes)</item>
+        <item>ನೀರು ಸರಬರಾಜು</item>
+        <item>ಕಸ (Garbage)</item>
+        <item>ಬೀದಿದೀಪಗಳು</item>
+        <item>ಚರಂಡಿ (Drainage)</item>
+        <item>ರಸ್ತೆಗಳು</item>
+        <item>ವಿದ್ಯುತ್</item>
+        <item>ತ್ಯಾಜ್ಯ ನಿರ್ವಹಣೆ</item>
+        <item>ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ</item>
+        <item>ಇತರ</item>
+    </string-array>
+</resources>

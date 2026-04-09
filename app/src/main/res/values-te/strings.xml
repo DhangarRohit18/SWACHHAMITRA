@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">శివసేతు (CivSetu)</string>
+    <string name="login">లాగిన్</string>
+    <string name="register">నమోదు</string>
+    <string name="email">ఈమెయిల్</string>
+    <string name="password">పాస్‌వర్డ్</string>
+    <string name="full_name">పూర్తి పేరు</string>
+    <string name="phone">ఫోన్ నంబర్</string>
+    <string name="submit">సమర్పించు</string>
+    <string name="report_issue">ఫిర్యాదు చేయండి</string>
+    <string name="issue_title">సమస్య శీర్షిక</string>
+    <string name="issue_description">వివరణ</string>
+    <string name="category">వర్గం</string>
+    <string name="address">చిరునామా</string>
+    <string name="dashboard">డ్యాష్‌బోర్డ్</string>
+    <string name="official_dashboard">అధికారిక డ్యాష్‌బోర్డ్</string>
+    <string name="resolved">పరిష్కరించబడింది</string>
+    <string name="pending">పెండింగ్‌లో ఉంది</string>
+    <string name="in_progress">పురోగతిలో ఉంది</string>
+    <string name="rejected">తిరస్కరించబడింది</string>
+    <string name="escalated">పెంచబడింది (Escalated)</string>
+    <string name="critical">అత్యవసరం</string>
+    <string name="high">ఎక్కువ</string>
+    <string name="medium">మధ్యస్థం</string>
+    <string name="low">తక్కువ</string>
+    <string name="search_hint">సమస్యలను వెతకండి...</string>
+    <string name="explore_live_issues">లైవ్ సమస్యలను చూడండి</string>
+    <string name="issue_statistics">సమస్య గణాంకాలు</string>
+    <string name="reported">ఫిర్యాదు చేయబడింది</string>
+    <string name="my_submissions">నా సమర్పణలు</string>
+    <string name="take_surveys">సర్వేలలో పాల్గొనండి</string>
+    <string name="total_pending">మొత్తం పెండింగ్‌లో ఉన్నాయి</string>
+    <string name="avg_resolution">సగటు పరిష్కార సమయం</string>
+    <string name="category_insights">వర్గాల విశ్లేషణ</string>
+    <string name="logout">లాగ్ అవుట్</string>
+    <string name="upvotes">అప్‌వోట్‌లు</string>
+    <string name="listen_voice">వాయిస్ వివరణ వినండి</string>
+    <string name="ai_insight">AI విశ్లేషణ</string>
+    <string name="sla_status">SLA స్థితి</string>
+    <string name="switch_language">భాషను మార్చండి</string>
+    <string name="map_view">మ్యాప్ వ్యూ</string>
+    <string name="list_view">లిస్ట్ వ్యూ</string>
+    <string name="navigate_to_spot">స్థానానికి మార్గాన్ని చూడండి</string>
+    <string name="official_remarks">అధికారిక వ్యాఖ్యలు</string>
+    <string name="resolution_progress">పరిష్కార పురోగతి</string>
+    <string name="admin_command_center">అడ్మిన్ కమాండ్ సెంటర్</string>
+    <string name="issue_map">సమస్యల మ్యాప్</string>
+    <string name="admin_subtitle">మీ నగర పౌర సమస్యలను ట్రాక్ చేయండి</string>
+    <string name="all_issues">అన్ని సమస్యలు</string>
+    <string name="status">స్థితి</string>
+    <string name="all">అన్నీ</string>
+    <string name="sla_breached">SLA ఉల్లంఘించబడింది</string>
+    <string name="map">మ్యాప్</string>
+    <string name="satellite">శాటిలైట్</string>
+    <string name="view_list">జాబితాను చూడండి</string>
+    <string name="roads">రోడ్లు</string>
+    <string name="water">నీరు</string>
+    <string name="waste">వ్యర్థాల నిర్వహణ</string>
+    <string name="electricity">విద్యుత్</string>
+    <string name="city_health_overview">నగర ఆరోగ్య అవలోకనం</string>
+    <string name="dept_distribution">వివిధ శాఖలలో సమస్యల పంపిణీ.</string>
+    <string name="citizen_dashboard">సిటిజన్ కనెక్ట్</string>
+    <string name="explore_live">లైవ్ సమస్యలను చూడండి</string>
+    <string name="issue_stats">సమస్య గణాంకాలు</string>
+    <string name="report_issue_btn">సమస్యను నివేదించండి</string>
+    <string name="show_clusters">క్లస్టర్లను చూపించు</string>
+    <string name="show_heatmap">హీట్ మ్యాప్ చూపించు</string>
+    <string name="report_civic_issue">పౌర సమస్యను నివేదించండి</string>
+    <string name="issue_title_hint">సమస్య శీర్షిక</string>
+    <string name="category_hint">వర్గం</string>
+    <string name="description_hint">వివరణ</string>
+    <string name="visual_context">దృశ్య సమాచారం (CameraX)</string>
+    <string name="capture">ఫోటో తీయండి</string>
+    <string name="images_captured">%d ఫోటోలు తీయబడ్డాయి</string>
+    <string name="record_voice">వాయిస్ రికార్డ్ చేయండి</string>
+    <string name="stop_recording">రికార్డింగ్ ఆపండి</string>
+    <string name="detected_address_hint">గుర్తించిన చిరునామా</string>
+    <string name="submit_report">నివేదికను సమర్పించండి</string>
+    <string name="ai_suggested_category">AI సూచించిన వర్గం: %s</string>
+    <string name="actionable_location">చర్య తీసుకోగల స్థానం</string>
+
+    <string-array name="categories_array">
+        <item>గుంతలు (Potholes)</item>
+        <item>నీటి సరఫరా</item>
+        <item>చెత్త (Garbage)</item>
+        <item>వీధి దీపాలు</item>
+        <item>డ్రైనేజీ (Drainage)</item>
+        <item>రోడ్లు</item>
+        <item>విద్యుత్</item>
+        <item>వ్యర్థాల నిర్వహణ</item>
+        <item>ప్రజారోగ్యం</item>
+        <item>ఇతరాలు</item>
+    </string-array>
+</resources>

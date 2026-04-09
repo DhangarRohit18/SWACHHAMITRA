@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/Widget.CivSetu.Card"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="16dp"
+    android:layout_marginVertical="10dp"
+    app:cardElevation="2dp"
+    app:strokeWidth="1dp"
+    app:strokeColor="@color/outlineVariant">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/ivIssue"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            android:visibility="gone"
+            app:shapeAppearanceOverlay="@style/ShapeAppearance.CivSetu.LargeComponent"
+            android:layout_margin="4dp"
+            tools:visibility="visible"
+            tools:src="@tools:sample/backgrounds/scenic" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginBottom="12dp">
+
+                <TextView
+                    android:id="@+id/tvCategory"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textAppearance="@style/TextAppearance.CivSetu.Label"
+                    android:textColor="@color/primary"
+                    android:textSize="11sp"
+                    tools:text="Roads &amp; Transport" />
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/chipPriority"
+                    style="@style/Widget.Material3.Chip.Suggestion"
+                    android:layout_width="wrap_content"
+                    android:layout_height="28dp"
+                    app:chipCornerRadius="14dp"
+                    app:chipStrokeWidth="0dp"
+                    android:textSize="10sp"
+                    android:textStyle="bold"
+                    tools:text="CRITICAL"
+                    app:chipBackgroundColor="@color/errorContainer"
+                    android:textColor="@color/onErrorContainer"/>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tvTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="@style/TextAppearance.Material3.TitleLarge"
+                android:textStyle="bold"
+                android:textColor="@color/onSurface"
+                android:layout_marginBottom="6dp"
+                tools:text="Large pothole near central market" />
+
+            <TextView
+                android:id="@+id/tvDescription"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="2"
+                android:ellipsize="end"
+                android:textAppearance="@style/TextAppearance.Material3.BodyMedium"
+                android:textColor="@color/onSurfaceVariant"
+                android:alpha="0.85"
+                android:lineSpacingExtra="2dp"
+                android:layout_marginBottom="20dp"
+                tools:text="There is a major pothole at the intersection of Main Road and 3rd Avenue which is causing significant traffic congestion..." />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/outlineVariant"
+                android:layout_marginBottom="16dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/chipStatus"
+                    style="@style/Widget.Material3.Chip.Assist"
+                    android:layout_width="wrap_content"
+                    android:layout_height="32dp"
+                    android:textColor="@color/onSecondaryContainer"
+                    app:chipBackgroundColor="@color/secondaryContainer"
+                    app:chipCornerRadius="16dp"
+                    app:chipStrokeWidth="0dp"
+                    android:textSize="11sp"
+                    android:textStyle="bold"
+                    tools:text="In Progress"
+                    app:chipIconVisible="true"
+                    app:chipIcon="@android:drawable/ic_dialog_info"
+                    app:chipIconSize="16dp"
+                    app:chipIconTint="@color/onSecondaryContainer"/>
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"/>
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/chipSLA"
+                    style="@style/Widget.Material3.Chip.Assist"
+                    android:layout_width="wrap_content"
+                    android:layout_height="32dp"
+                    android:textAppearance="@style/TextAppearance.CivSetu.Label"
+                    android:textSize="10sp"
+                    android:textColor="@color/white"
+                    app:chipBackgroundColor="@color/status_resolved"
+                    tools:text="ON TRACK"
+                    app:chipStrokeWidth="0dp"
+                    app:chipCornerRadius="8dp"/>
+
+            </LinearLayout>
+
+            <!-- Admin/Official Actions -->
+            <LinearLayout
+                android:id="@+id/layoutActions"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="20dp"
+                android:visibility="gone"
+                tools:visibility="visible">
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btnApprove"
+                    style="@style/Widget.Material3.Button.TonalButton"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Approve"
+                    android:textColor="@color/status_resolved"
+                    app:icon="@android:drawable/checkbox_on_background"
+                    app:iconTint="@color/status_resolved"
+                    android:layout_marginEnd="8dp"
+                    app:cornerRadius="12dp"
+                    android:paddingVertical="8dp"/>
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btnDecline"
+                    style="@style/Widget.Material3.Button.TonalButton"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Decline"
+                    android:textColor="@color/error"
+                    app:icon="@android:drawable/ic_menu_close_clear_cancel"
+                    app:iconTint="@color/error"
+                    android:layout_marginEnd="8dp"
+                    app:cornerRadius="12dp"
+                    android:paddingVertical="8dp"/>
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btnResolve"
+                    style="@style/Widget.Material3.Button"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.2"
+                    android:text="@string/resolve"
+                    android:textSize="12sp"
+                    app:cornerRadius="12dp"
+                    app:icon="@android:drawable/ic_menu_save"
+                    app:iconSize="16dp"
+                    app:backgroundTint="@color/primary"
+                    android:textColor="@color/white"
+                    app:iconTint="@color/white"
+                    android:paddingVertical="8dp"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>

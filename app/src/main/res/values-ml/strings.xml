@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">സിവ്സേതു (CivSetu)</string>
+    <string name="login">ലോഗിൻ</string>
+    <string name="register">രജിസ്റ്റർ ചെയ്യുക</string>
+    <string name="email">ഇമെയിൽ</string>
+    <string name="password">പാസ്‌വേഡ്</string>
+    <string name="full_name">പൂർണ്ണമായ പേര്</string>
+    <string name="phone">ഫോൺ നമ്പർ</string>
+    <string name="submit">സമർപ്പിക്കുക</string>
+    <string name="report_issue">പരാതി നൽകുക</string>
+    <string name="issue_title">പരാതിയുടെ വിഷയം</string>
+    <string name="issue_description">വിവരണം</string>
+    <string name="category">വിഭാഗം</string>
+    <string name="address">വിലാസം</string>
+    <string name="dashboard">ഡാഷ്‌ബോർഡ്</string>
+    <string name="official_dashboard">ഔദ്യോഗിക ഡാഷ്‌ബോർഡ്</string>
+    <string name="resolved">പരിഹരിച്ചു</string>
+    <string name="pending">നിലവിലുണ്ട്</string>
+    <string name="in_progress">നടന്നുകൊണ്ടിരിക്കുന്നു</string>
+    <string name="rejected">നിരസിച്ചു</string>
+    <string name="escalated">ഉയർത്തപ്പെട്ടു (Escalated)</string>
+    <string name="critical">അതിപ്രധാനം</string>
+    <string name="high">കൂടുതൽ</string>
+    <string name="medium">ഇടത്തരം</string>
+    <string name="low">കുറഞ്ഞത്</string>
+    <string name="search_hint">പരാതികൾ തിരയുക...</string>
+    <string name="explore_live_issues">തത്സമയ പരാതികൾ പരിശോധിക്കുക</string>
+    <string name="issue_statistics">പരാതി സ്ഥിതിവിവരക്കണക്കുകൾ</string>
+    <string name="reported">റിപ്പോർട്ട് ചെയ്തു</string>
+    <string name="my_submissions">എൻ്റെ സമർപ്പിക്കലുകൾ</string>
+    <string name="take_surveys">സർവേകളിൽ പങ്കെടുക്കുക</string>
+    <string name="total_pending">ആകെ തീർപ്പാക്കാനുള്ളവ</string>
+    <string name="avg_resolution">ശരാശരി പരിഹാര സമയം</string>
+    <string name="category_insights">വിഭാഗം തിരിച്ചുള്ള സ്ഥിതിവിവരക്കണക്കുകൾ</string>
+    <string name="logout">ലോഗൗട്ട്</string>
+    <string name="upvotes">പിന്തുണയ്ക്കലുകൾ</string>
+    <string name="listen_voice">ശബ്ദ വിവരണങ്ങൾ കേൾക്കുക</string>
+    <string name="ai_insight">AI നിരീക്ഷണം</string>
+    <string name="sla_status">SLA സ്റ്റാറ്റസ്</string>
+    <string name="switch_language">ഭാഷ മാറ്റുക</string>
+    <string name="map_view">മാപ്പ് വ്യൂ</string>
+    <string name="list_view">ലിസ്റ്റ് വ്യൂ</string>
+    <string name="navigate_to_spot">സ്ഥലത്തേക്ക് പോവുക</string>
+    <string name="official_remarks">ഔദ്യോഗിക കുറിപ്പുകൾ</string>
+    <string name="resolution_progress">പരിഹാര പുരോഗതി</string>
+    <string name="admin_command_center">അഡ്മിൻ കമാൻഡ് സെൻ്റർ</string>
+    <string name="issue_map">പരാതി മാപ്പ്</string>
+    <string name="admin_subtitle">നിങ്ങളുടെ നഗരത്തിലെ പൗരപ്രശ്നങ്ങൾ നിരീക്ഷിക്കുക</string>
+    <string name="all_issues">എല്ലാ പരാതികളും</string>
+    <string name="status">നില</string>
+    <string name="all">എല്ലാം</string>
+    <string name="sla_breached">SLA ലംഘിക്കപ്പെട്ടു</string>
+    <string name="map">മാപ്പ്</string>
+    <string name="satellite">സാറ്റലൈറ്റ്</string>
+    <string name="view_list">ലിസ്റ്റ് കാണുക</string>
+    <string name="roads">റോഡുകൾ</string>
+    <string name="water">വെള്ളം</string>
+    <string name="waste">മാലിന്യ സംസ്കരണം</string>
+    <string name="electricity">വൈദ്യുതി</string>
+    <string name="city_health_overview">നഗര സ്ഥിതിവിവരക്കണക്കുകൾ</string>
+    <string name="dept_distribution">വിവിധ വകുപ്പുകളിലെ പരാതികളുടെ വിതരണം.</string>
+    <string name="citizen_dashboard">സിറ്റിസൺ കണക്ട്</string>
+    <string name="explore_live">തത്സമയ പരാതികൾ കാണുക</string>
+    <string name="issue_stats">പരാതി സ്ഥിതിവിവരം</string>
+    <string name="report_issue_btn">പരാതി നൽകുക</string>
+    <string name="show_clusters">ക്ലസ്റ്ററുകൾ കാണിക്കുക</string>
+    <string name="show_heatmap">ഹീറ്റ് മാപ്പ് കാണിക്കുക</string>
+    <string name="report_civic_issue">പൗരപ്രശ്നം റിപ്പോർട്ട് ചെയ്യുക</string>
+    <string name="issue_title_hint">പരാതിയുടെ വിഷയം</string>
+    <string name="category_hint">വിഭാഗം</string>
+    <string name="description_hint">വിവരണം</string>
+    <string name="visual_context">ദൃശ്യ വിവരണം (CameraX)</string>
+    <string name="capture">ചിത്രമെടുക്കുക</string>
+    <string name="images_captured">%d ചിത്രങ്ങൾ എടുത്തു</string>
+    <string name="record_voice">ശബ്ദം റെക്കോർഡ് ചെയ്യുക</string>
+    <string name="stop_recording">റെക്കോർഡിംഗ് നിർത്തുക</string>
+    <string name="detected_address_hint">തിരിച്ചറിഞ്ഞ വിലാസം</string>
+    <string name="submit_report">റിപ്പോർട്ട് സമർപ്പിക്കുക</string>
+    <string name="ai_suggested_category">AI നിർദ്ദേശിച്ച വിഭാഗം: %s</string>
+    <string name="actionable_location">പരിഹരിക്കേണ്ട സ്ഥലം</string>
+
+    <string-array name="categories_array">
+        <item>കുഴികൾ (Potholes)</item>
+        <item>ജലവിതരണം</item>
+        <item>മാലിന്യം (Garbage)</item>
+        <item>തെരുവ് വിളക്കുകൾ</item>
+        <item>ഓട ഡ്രെയിനേജ് (Drainage)</item>
+        <item>റോഡുകൾ</item>
+        <item>വൈദ്യുതി</item>
+        <item>മാലിന്യ സംസ്കരണം</item>
+        <item>പൊതുജനാരോഗ്യം</item>
+        <item>മറ്റുള്ളവ</item>
+    </string-array>
+</resources>

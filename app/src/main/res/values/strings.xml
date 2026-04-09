@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">CivSetu</string>
+    <string name="login">Log In</string>
+    <string name="login_subtitle">Bridging Citizens and Civic Services</string>
+    <string name="new_here_register">New here? Create an Account</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="submit">Submit</string>
+    <string name="report_issue">Report Issue</string>
+    <string name="issue_title">Issue Title</string>
+    <string name="issue_description">Description</string>
+    <string name="category">Category</string>
+    <string name="address">Address</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="official_dashboard">Official Dashboard</string>
+    <string name="resolved">Resolved</string>
+    <string name="pending">Pending</string>
+    <string name="in_progress">In Progress</string>
+    <string name="rejected">Rejected</string>
+    <string name="escalated">Escalated</string>
+    <string name="critical">Critical</string>
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="low">Low</string>
+    <string name="search_hint">Search issues...</string>
+    <string name="explore_live_issues">Explore Live Issues</string>
+    <string name="issue_statistics">Issue Statistics</string>
+    <string name="reported">Reported</string>
+    <string name="my_submissions">My Submissions</string>
+    <string name="take_surveys">Take Surveys</string>
+    <string name="total_pending">Total Pending</string>
+    <string name="avg_resolution">Avg. Resolution</string>
+    <string name="category_insights">Category Insights</string>
+    <string name="logout">Logout</string>
+    <string name="upvotes">Upvotes</string>
+    <string name="listen_voice">Listen to Voice Context</string>
+    <string name="ai_insight">AI Insight</string>
+    <string name="sla_status">SLA Status</string>
+    <string name="switch_language">Switch Language</string>
+    <string name="map_view">Map View</string>
+    <string name="list_view">List View</string>
+    <string name="navigate_to_spot">Navigate to Spot</string>
+    <string name="official_remarks">Official Remarks</string>
+    <string name="resolution_progress">Resolution Progress</string>
+    <string name="admin_command_center">Admin Command Center</string>
+    <string name="issue_map">Issue Map</string>
+    <string name="admin_subtitle">View and track civic issues across your city</string>
+    <string name="all_issues">All Issues</string>
+    <string name="status">Status</string>
+    <string name="all">All</string>
+    <string name="sla_breached">SLA Breached</string>
+    <string name="map">Map</string>
+    <string name="satellite">Satellite</string>
+    <string name="view_list">View List</string>
+    <string name="roads">Roads</string>
+    <string name="water">Water</string>
+    <string name="waste">Waste Management</string>
+    <string name="electricity">Electricity</string>
+    <string name="potholes">Potholes</string>
+    <string name="garbage">Garbage</string>
+    <string name="street_lights">Street Lights</string>
+    <string name="drainage">Drainage</string>
+    <string name="city_health_overview">City-Wide Health Overview</string>
+    <string name="dept_distribution">Distribution of issues across different departments.</string>
+    <string name="citizen_dashboard">Citizen Connect</string>
+    <string name="explore_live">Explore Live Issues</string>
+    <string name="issue_stats">Issue Statistics</string>
+    <string name="report_issue_btn">Report Issue</string>
+    <string name="show_clusters">Show Clusters</string>
+    <string name="show_heatmap">Show Heatmap</string>
+    <string name="report_civic_issue">Report Civic Issue</string>
+    <string name="issue_title_hint">Issue Title</string>
+    <string name="category_hint">Category</string>
+    <string name="description_hint">Description</string>
+    <string name="visual_context">Visual Context (CameraX)</string>
+    <string name="capture">Capture</string>
+    <string name="images_captured">%d images captured</string>
+    <string name="record_voice">Record Voice Context</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="detected_address_hint">Detected Address</string>
+    <string name="submit_report">Submit Report</string>
+    <string name="ai_suggested_category">AI Suggested Category: %s</string>
+    <string name="fetching_location">Fetching location...</string>
+    <string name="actionable_location">Actionable Location</string>
+    <string name="upvoted_success">Upvoted successfully!</string>
+    <string name="audio_playback_failed">Audio playback failed</string>
+    <string name="approve_assign">Approve &amp; Assign</string>
+    <string name="decline">Decline</string>
+    <string name="resolve">Resolve</string>
+    <string name="issue_approved_assigned">Issue Approved and Assigned</string>
+    <string name="issue_declined">Issue Declined</string>
+    <string name="issue_resolved">Issue Resolved</string>
+    <string name="remarks_admin_approved">Approved by Admin. Assigned to %s</string>
+    <string name="remarks_admin_declined">Declined by Admin</string>
+    <string name="remarks_official_resolved">Resolved by Departmental Official</string>
+    <string name="newest_submission">NEWEST SUBMISSION</string>
+    <string name="view_details">View Details</string>
+
+    <string-array name="categories_array">
+        <item>Potholes</item>
+        <item>Water Supply</item>
+        <item>Garbage</item>
+        <item>Street Lights</item>
+        <item>Drainage</item>
+        <item>Roads</item>
+        <item>Electricity</item>
+        <item>Waste Management</item>
+        <item>Public Health</item>
+        <item>Other</item>
+    </string-array>
+    <string name="issue_submitted_successfully">Issue submitted successfully!</string>
+
+    <string name="sustainability_track">Sustainability Hub</string>
+    <string name="green_points">Green Points</string>
+    <string name="cleanliness_score">Cleanliness Score</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="community_ranking">Community Ranking</string>
+    <string name="top_contributors">Top Contributors</string>
+    <string name="my_points_history">Points History</string>
+    <string name="badges_achievements">Badges &amp; Achievements</string>
+    <string name="impact_points_label">Impact Points</string>
+    <string name="rank_label">Rank</string>
+    <string name="sustainability_score">Sustainability Score</string>
+    <string name="eco_warrior">Eco-Warrior</string>
+    <string name="civic_hero">Civic Hero</string>
+    <string name="green_guardian">Green Guardian</string>
+    <string name="cleanliness_score_desc">Based on your activity and reporting accuracy.</string>
+</resources>

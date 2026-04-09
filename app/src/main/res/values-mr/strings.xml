@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">सिवसेतू (CivSetu)</string>
+    <string name="login">लॉगिन</string>
+    <string name="register">नोंदणी</string>
+    <string name="email">ईमेल</string>
+    <string name="password">पासवर्ड</string>
+    <string name="full_name">पूर्ण नाव</string>
+    <string name="phone">फोन नंबर</string>
+    <string name="submit">सबमिट करा</string>
+    <string name="report_issue">तक्रार नोंदवा</string>
+    <string name="issue_title">तक्रारीचे शीर्षक</string>
+    <string name="issue_description">वर्णन</string>
+    <string name="category">श्रेणी</string>
+    <string name="address">पत्ता</string>
+    <string name="dashboard">डॅशबोर्ड</string>
+    <string name="official_dashboard">अधिकृत डॅशबोर्ड</string>
+    <string name="citizen_dashboard">सिटीझन कनेक्ट</string>
+    <string name="resolved">सुटलेले</string>
+    <string name="pending">प्रलंबित</string>
+    <string name="in_progress">प्रगतीपथावर</string>
+    <string name="rejected">नाकारले</string>
+    <string name="escalated"> Escalated (तक्रार वाढवली)</string>
+    <string name="critical">गंभीर</string>
+    <string name="high">उच्च</string>
+    <string name="medium">मध्यम</string>
+    <string name="low">कमी</string>
+    <string name="search_hint">तक्रारी शोधा...</string>
+    <string name="explore_live_issues">थेट तक्रारी पहा</string>
+    <string name="issue_statistics">तक्रार आकडेवारी</string>
+    <string name="reported">नोंदवलेले</string>
+    <string name="my_submissions">माझे सबमिशन</string>
+    <string name="take_surveys">सर्वेक्षणात भाग घ्या</string>
+    <string name="total_pending">एकूण प्रलंबित</string>
+    <string name="avg_resolution">सरासरी निराकरण</string>
+    <string name="category_insights">श्रेणी अंतर्दृष्टी</string>
+    <string name="logout">लॉगआउट</string>
+    <string name="upvotes">अपवोट्स</string>
+    <string name="listen_voice">व्हॉइस संदर्भ ऐका</string>
+    <string name="ai_insight">AI अंतर्दृष्टी</string>
+    <string name="sla_status">SLA स्थिती</string>
+    <string name="switch_language">भाषा बदला</string>
+    <string name="map_view">नकाशा दृश्य</string>
+    <string name="list_view">यादी दृश्य</string>
+    <string name="navigate_to_spot">जागेवर जा</string>
+    <string name="official_remarks">अधिकृत रिमार्क</string>
+    <string name="resolution_progress">निराकरण प्रगती</string>
+    <string name="admin_command_center">प्रशासन कमांड सेंटर</string>
+    <string name="issue_map">तक्रार नकाशा</string>
+    <string name="admin_subtitle">आपल्या शहरातील नागरी समस्या पहा आणि मागोवा घ्या</string>
+    <string name="all_issues">सर्व तक्रारी</string>
+    <string name="status">स्थिती</string>
+    <string name="all">सर्व</string>
+    <string name="sla_breached">SLA उल्लंघन</string>
+    <string name="map">नकाशा</string>
+    <string name="satellite">उपग्रह</string>
+    <string name="view_list">यादी पहा</string>
+    <string name="roads">रस्ते</string>
+    <string name="water">पाणी</string>
+    <string name="waste">कचरा व्यवस्थापन</string>
+    <string name="electricity">वीज</string>
+    <string name="city_health_overview">शहर-व्यापी आरोग्य विहंगावलोकन</string>
+    <string name="dept_distribution">विविध विभागांमधील समस्यांचे वितरण.</string>
+    <string name="explore_live">थेट समस्या पहा</string>
+    <string name="issue_stats">समस्या आकडेवारी</string>
+    <string name="report_issue_btn">समस्या रिपोर्ट करा</string>
+    <string name="show_clusters">क्लस्टर्स दाखवा</string>
+    <string name="show_heatmap">हीटमॅप दाखवा</string>
+    <string name="report_civic_issue">नागरी समस्या नोंदवा</string>
+    <string name="issue_title_hint">समस्येचे नाव</string>
+    <string name="category_hint">श्रेणी</string>
+    <string name="description_hint">वर्णन</string>
+    <string name="visual_context">दृश्य संदर्भ (CameraX)</string>
+    <string name="capture">फोटो काढा</string>
+    <string name="images_captured">%d फोटो काढले</string>
+    <string name="record_voice">व्हॉईस संदर्भ रेकॉर्ड करा</string>
+    <string name="stop_recording">रेकॉर्डिंग थांबवा</string>
+    <string name="detected_address_hint">पत्ता</string>
+    <string name="submit_report">अहवाल सबमिट करा</string>
+    <string name="ai_suggested_category">AI सुचवलेली श्रेणी: %s</string>
+    <string name="actionable_location">कारवाईयोग्य ठिकाण</string>
+
+    <string-array name="categories_array">
+        <item>खड्डे (Potholes)</item>
+        <item>पाणी पुरवठा</item>
+        <item>कचरा (Garbage)</item>
+        <item>रस्त्यावरील दिवे</item>
+        <item>सांडपाणी (Drainage)</item>
+        <item>रस्ते</item>
+        <item>वीज</item>
+        <item>कचरा व्यवस्थापन</item>
+        <item>सार्वजनिक आरोग्य</item>
+        <item>इतर</item>
+    </string-array>
+</resources>

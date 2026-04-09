@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">CivSetu</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="full_name">Nombre completo</string>
+    <string name="phone">Número de teléfono</string>
+    <string name="submit">Enviar</string>
+    <string name="report_issue">Informar problema</string>
+    <string name="issue_title">Título del problema</string>
+    <string name="issue_description">Descripción</string>
+    <string name="category">Categoría</string>
+    <string name="address">Dirección</string>
+    <string name="dashboard">Panel de control</string>
+    <string name="official_dashboard">Panel oficial</string>
+    <string name="resolved">Resuelto</string>
+    <string name="pending">Pendiente</string>
+    <string name="in_progress">En progreso</string>
+    <string name="rejected">Rechazado</string>
+    <string name="escalated">Escalado</string>
+    <string name="critical">Crítico</string>
+    <string name="high">Alto</string>
+    <string name="medium">Medio</string>
+    <string name="low">Bajo</string>
+    <string name="search_hint">Buscar problemas...</string>
+    <string name="explore_live_issues">Explorar problemas en vivo</string>
+    <string name="issue_statistics">Estadísticas</string>
+    <string name="reported">Reportado</string>
+    <string name="my_submissions">Mis envíos</string>
+    <string name="take_surveys">Realizar encuestas</string>
+    <string name="total_pending">Total pendientes</string>
+    <string name="avg_resolution">Resolución promedio</string>
+    <string name="category_insights">Información por categoría</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="upvotes">Votos positivos</string>
+    <string name="listen_voice">Escuchar contexto de voz</string>
+    <string name="ai_insight">Información de IA</string>
+    <string name="sla_status">Estado de SLA</string>
+    <string name="switch_language">Cambiar idioma</string>
+    <string name="map_view">Vista de mapa</string>
+    <string name="list_view">Vista de lista</string>
+    <string name="navigate_to_spot">Navegar al lugar</string>
+    <string name="official_remarks">Observaciones oficiales</string>
+    <string name="resolution_progress">Progreso de resolución</string>
+    <string name="admin_command_center">Centro de mando admin</string>
+    <string name="issue_map">Mapa de problemas</string>
+    <string name="admin_subtitle">Seguimiento de problemas cívicos</string>
+    <string name="all_issues">Todos los problemas</string>
+    <string name="status">Estado</string>
+    <string name="all">Todos</string>
+    <string name="sla_breached">SLA incumplido</string>
+    <string name="map">Mapa</string>
+    <string name="satellite">Satélite</string>
+    <string name="view_list">Ver lista</string>
+    <string name="roads">Carreteras</string>
+    <string name="water">Agua</string>
+    <string name="waste">Gestión de residuos</string>
+    <string name="electricity">Electricidad</string>
+    <string name="city_health_overview">Resumen de salud de la ciudad</string>
+    <string name="dept_distribution">Distribución por departamentos.</string>
+    <string name="citizen_dashboard">Citizen Connect</string>
+    <string name="explore_live">Explorar en vivo</string>
+    <string name="issue_stats">Estadísticas</string>
+    <string name="report_issue_btn">Informar</string>
+    <string name="show_clusters">Mostrar grupos</string>
+    <string name="show_heatmap">Mostrar mapa de calor</string>
+    <string name="report_civic_issue">Informar problema cívico</string>
+    <string name="issue_title_hint">Título</string>
+    <string name="category_hint">Categoría</string>
+    <string name="description_hint">Descripción</string>
+    <string name="visual_context">Contexto visual (CameraX)</string>
+    <string name="capture">Capturar</string>
+    <string name="images_captured">%d imágenes capturadas</string>
+    <string name="record_voice">Grabar voz</string>
+    <string name="stop_recording">Detener grabación</string>
+    <string name="detected_address_hint">Dirección detectada</string>
+    <string name="submit_report">Enviar informe</string>
+    <string name="ai_suggested_category">IA sugiere: %s</string>
+    <string name="actionable_location">Ubicación de acción</string>
+
+    <string-array name="categories_array">
+        <item>Baches</item>
+        <item>Suministro de agua</item>
+        <item>Basura</item>
+        <item>Alumbrado público</item>
+        <item>Drenaje</item>
+        <item>Carreteras</item>
+        <item>Electricidad</item>
+        <item>Gestión de residuos</item>
+        <item>Salud pública</item>
+        <item>Otro</item>
+    </string-array>
+</resources>

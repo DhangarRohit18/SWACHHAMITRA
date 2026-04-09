@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- CivSetu Dark Premium Brand Colors -->
+    <color name="primary">#A6C8FF</color> <!-- Light Civic Blue -->
+    <color name="onPrimary">#003061</color>
+    <color name="primaryContainer">#004787</color>
+    <color name="onPrimaryContainer">#D1E4FF</color>
+
+    <color name="secondary">#80D3C7</color> <!-- Desaturated Teal -->
+    <color name="onSecondary">#003732</color>
+    <color name="secondaryContainer">#005049</color>
+    <color name="onSecondaryContainer">#9BF0E3</color>
+
+    <color name="tertiary">#FFDCBE</color> <!-- Light Amber -->
+    <color name="onTertiary">#4B2800</color>
+    <color name="tertiaryContainer">#6B3B00</color>
+    <color name="onTertiaryContainer">#FFDCBE</color>
+
+    <!-- Surface/Background for Dark Mode -->
+    <color name="background">#0F172A</color> <!-- Deep Slate -->
+    <color name="onBackground">#F8FAFC</color>
+    <color name="surface">#1E293B</color> <!-- Slightly Lighter Slate for Cards -->
+    <color name="onSurface">#F8FAFC</color>
+    <color name="surfaceVariant">#334155</color>
+    <color name="onSurfaceVariant">#94A3B8</color>
+    <color name="outline">#475569</color>
+</resources>

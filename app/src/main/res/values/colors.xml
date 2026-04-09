@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- CivSetu Brand Colors - Professional Civic Palette -->
+    <color name="primary">#1A56DB</color> <!-- Modern Royal Blue -->
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#EBF5FF</color>
+    <color name="onPrimaryContainer">#1E429F</color>
+
+    <color name="secondary">#0891B2</color> <!-- Cyan/Teal -->
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="secondaryContainer">#E0F2FE</color>
+    <color name="onSecondaryContainer">#0369A1</color>
+
+    <color name="tertiary">#D97706</color> <!-- Amber -->
+    <color name="onTertiary">#FFFFFF</color>
+    <color name="tertiaryContainer">#FEF3C7</color>
+    <color name="onTertiaryContainer">#92400E</color>
+
+    <!-- Semantic States -->
+    <color name="status_pending">#F59E0B</color>
+    <color name="status_in_progress">#3B82F6</color>
+    <color name="status_resolved">#10B981</color>
+    <color name="status_escalated">#EF4444</color>
+    <color name="status_rejected">#6B7280</color>
+
+    <!-- Error Colors -->
+    <color name="error">#DC2626</color>
+    <color name="onError">#FFFFFF</color>
+    <color name="errorContainer">#FEE2E2</color>
+    <color name="onErrorContainer">#991B1B</color>
+
+    <!-- Surface/Background - Sleek Slate -->
+    <color name="background">#F8FAFC</color>
+    <color name="onBackground">#1E293B</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="onSurface">#1E293B</color>
+    <color name="surfaceVariant">#F1F5F9</color>
+    <color name="onSurfaceVariant">#475569</color>
+    <color name="outline">#CBD5E1</color>
+    <color name="outlineVariant">#E2E8F0</color>
+
+    <!-- Ranking Colors -->
+    <color name="rank_1">#FFD700</color> <!-- Gold -->
+    <color name="rank_2">#C0C0C0</color> <!-- Silver -->
+    <color name="rank_3">#CD7F32</color> <!-- Bronze -->
+    <color name="rank_other">#E2E8F0</color>
+
+    <!-- Gradients -->
+    <color name="gradient_start">#1A56DB</color>
+    <color name="gradient_end">#1E429F</color>
+</resources>

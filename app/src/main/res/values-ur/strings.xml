@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">سیو سیتو (CivSetu)</string>
+    <string name="login">لاگ ان</string>
+    <string name="register">رجسٹر کریں</string>
+    <string name="email">ای میل</string>
+    <string name="password">پاس ورڈ</string>
+    <string name="full_name">پورا نام</string>
+    <string name="phone">فون نمبر</string>
+    <string name="submit">جمع کروائیں</string>
+    <string name="report_issue">مسئلے کی اطلاع دیں</string>
+    <string name="issue_title">مسئلے کا عنوان</string>
+    <string name="issue_description">تفصیل</string>
+    <string name="category">زمرہ</string>
+    <string name="address">پتہ</string>
+    <string name="dashboard">ڈیش بورڈ</string>
+    <string name="official_dashboard">سرکاری ڈیش بورڈ</string>
+    <string name="resolved">حل ہو گیا</string>
+    <string name="pending">التواء میں</string>
+    <string name="in_progress">جاری ہے</string>
+    <string name="rejected">مسترد</string>
+    <string name="escalated">بڑھایا گیا (Escalated)</string>
+    <string name="critical">نہایت اہم</string>
+    <string name="high">زیادہ</string>
+    <string name="medium">درمیانہ</string>
+    <string name="low">کم</string>
+    <string name="search_hint">مسائل تلاش کریں...</string>
+    <string name="explore_live_issues">لائیو مسائل دیکھیں</string>
+    <string name="issue_statistics">مسائل کے اعداد و شمار</string>
+    <string name="reported">اطلاع دی گئی</string>
+    <string name="my_submissions">میرے جمع کردہ مسائل</string>
+    <string name="take_surveys">سروے میں حصہ لیں</string>
+    <string name="total_pending">کل التواء میں</string>
+    <string name="avg_resolution">اوسط حل کا وقت</string>
+    <string name="category_insights">زمرہ وار بصیرت</string>
+    <string name="logout">لاگ آؤٹ</string>
+    <string name="upvotes">حمایتی ووٹ</string>
+    <string name="listen_voice">صوتی تفصیل سنیں</string>
+    <string name="ai_insight">AI بصیرت</string>
+    <string name="sla_status">SLA حیثیت</string>
+    <string name="switch_language">زبان تبدیل کریں</string>
+    <string name="map_view">نقشہ دیکھیں</string>
+    <string name="list_view">فہرست دیکھیں</string>
+    <string name="navigate_to_spot">مقام کی طرف رہنمائی</string>
+    <string name="official_remarks">سرکاری ریمارکس</string>
+    <string name="resolution_progress">حل کی پیش رفت</string>
+    <string name="admin_command_center">ایڈمن کمانڈ سینٹر</string>
+    <string name="issue_map">مسائل کا نقشہ</string>
+    <string name="admin_subtitle">اپنے شہر کے پبلک مسائل کو ٹریک کریں</string>
+    <string name="all_issues">تمام مسائل</string>
+    <string name="status">حیثیت</string>
+    <string name="all">سب</string>
+    <string name="sla_breached">SLA کی خلاف ورزی</string>
+    <string name="map">نقشہ</string>
+    <string name="satellite">سیٹلائٹ</string>
+    <string name="view_list">فہرست دیکھیں</string>
+    <string name="roads">سڑکیں</string>
+    <string name="water">پانی</string>
+    <string name="waste">فضلے کا انتظام</string>
+    <string name="electricity">بجلی</string>
+    <string name="city_health_overview">شہر بھر کی صحت کا جائزہ</string>
+    <string name="dept_distribution">مختلف محکموں میں مسائل کی تقسیم۔</string>
+    <string name="citizen_dashboard">سیٹیزن کنیکٹ</string>
+    <string name="explore_live">لائیو مسائل دریافت کریں</string>
+    <string name="issue_stats">مسائل کے اعداد و شمار</string>
+    <string name="report_issue_btn">مسئلہ رپورٹ کریں</string>
+    <string name="show_clusters">کلسٹرز دکھائیں</string>
+    <string name="show_heatmap">ہیٹ میپ دکھائیں</string>
+    <string name="report_civic_issue">شہری مسئلہ رپورٹ کریں</string>
+    <string name="issue_title_hint">مسئلے کا عنوان</string>
+    <string name="category_hint">زمرہ</string>
+    <string name="description_hint">تفصیل</string>
+    <string name="visual_context">بصری تفصیل (CameraX)</string>
+    <string name="capture">کیپچر کریں</string>
+    <string name="images_captured">%d تصاویر لی گئیں</string>
+    <string name="record_voice">آواز ریکارڈ کریں</string>
+    <string name="stop_recording">ریکارڈنگ روکیں</string>
+    <string name="detected_address_hint">شناخت شدہ پتہ</string>
+    <string name="submit_report">رپورٹ جمع کروائیں</string>
+    <string name="ai_suggested_category">AI تجویز کردہ زمرہ: %s</string>
+    <string name="actionable_location">قابل عمل مقام</string>
+
+    <string-array name="categories_array">
+        <item>گڑھے (Potholes)</item>
+        <item>پانی کی فراہمی</item>
+        <item>کچرا (Garbage)</item>
+        <item>اسٹریٹ لائٹس</item>
+        <item>نکاسی آب (Drainage)</item>
+        <item>سڑکیں</item>
+        <item>بجلی</item>
+        <item>فضلے کا انتظام</item>
+        <item>عوامی صحت</item>
+        <item>دیگر</item>
+    </string-array>
+</resources>
